@@ -1,12 +1,18 @@
+import React from "react"
+import Card from "../components/Card"
+
+
+
+
 
 export default function Home() {
   return (
 <>
+<title>TOT</title>
+{/* <div class="flex justify-center items-center bg-black">
+</div> */}
 
-<div class="flex justify-center items-center h-screen bg-fuchsia-300">
-  <div class="text-2xl">Trash Or Treasure</div>
-</div>
-
+<Card/>
 
 
 </>
