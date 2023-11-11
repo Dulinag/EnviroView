@@ -14,15 +14,15 @@ function Navbar() {
   
             <img
               className="rounded-full"
-              src="https://ih1.redbubble.net/image.3440946030.3036/raf,750x1000,075,t,101010:01c5ca27c6.jpg"
+              src="https://thumbs.dreamstime.com/b/d-golden-treasure-chest-white-background-image-33297813.jpg"
               width="40"
               height="40"
             />
               </Link>
-            <h1 className="text-white ml-2 text-2xl font-bold">Welcome ENVIROVIEW</h1>
+            <h1 className="text-white ml-2 text-2xl font-bold">Trash Or Treasure</h1>
           </div>
           <p className="text-sm text-gray-400">
-             &nbsp; B & D Developers
+             &nbsp; Gunner Developers
           </p>
         </div>
       </div>
